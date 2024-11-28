@@ -1,0 +1,17 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/project_tmp.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/project_tmp.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1732742645,verilog,,,,clk_wiz_0,,,../../../../project_tmp.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/project_tmp.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1732742645,verilog,,C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/project_tmp.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../project_tmp.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/project_tmp.srcs/sources_1/new/dpop.vhd,1732749428,vhdl,,,,dpop,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/project_tmp.srcs/sources_1/new/fifo.vhd,1732758075,vhdl,,,,fifo,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/src_files/adccntrl.vhd,1732735179,vhdl,,,,adccntrl,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/src_files/clk_div.vhd,1732735178,vhdl,,,,clk_div,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/src_files/mcdecoder.vhd,1732749650,vhdl,,,,mcdecoder,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/src_files/myuart.vhd,1732749625,vhdl,,,,myuart,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/src_files/sim_top.vhd,1732757873,vhdl,,,,sim_top,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/src_files/symb_det.vhd,1732747720,vhdl,,,,symb_det,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/src_files/sys_top.vhd,1732735179,vhdl,,,,sys_top,,,,,,,,
+C:/Users/kelvi/Downloads/elec3342hw4_project_tmp/tb/sim_top_tb.vhd,1732757050,vhdl,,,,sim_top_tb,,,,,,,,
